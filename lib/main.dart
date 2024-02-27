@@ -10,5 +10,3 @@ void main() {
 //  1. Provier.of<MyProvider>(context).myMethod or just value .value
 //  2. context.read<MyProvider>().myMethod to trigger the method
 //  3. context.watch<MyProvider>().value to 
-//
-//
